@@ -43,7 +43,6 @@ class PlateRecognizer:
                 info["text"].replace(" ", "")
                             .replace("O", "0")
                             .replace("I", "1")
-                            .replace("L", "1")
                             .replace("-", "")
             )
 
