@@ -96,6 +96,4 @@ streamlit run app.py
 
 ---
 
-## 🖇️ License
 
-MIT License
